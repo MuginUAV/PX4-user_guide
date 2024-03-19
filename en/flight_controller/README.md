@@ -52,6 +52,7 @@ You can also try PX4 on a [Complete Vehicle](../complete_vehicles/README.md) (co
   - [SP Racing H7 EXTREME](../flight_controller/spracingh7extreme.md)
   - [ThePeach FCC-K1](../flight_controller/thepeach_k1.md)
   - [ThePeach FCC-R1](../flight_controller/thepeach_r1.md)
+  - [Mugin Waypoint](https://www.muginuav.com/product-category/drone-autopilot-gps/)
 - [Experimental Autopilots](../flight_controller/autopilot_experimental.md)
   - [Raspberry Pi 2/3 Navio2](../flight_controller/raspberry_pi_navio2.md)
   - [Raspberry Pi 2/3/4 PilotPi](../flight_controller/raspberry_pi_pilotpi.md)
